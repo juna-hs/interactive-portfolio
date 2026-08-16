@@ -377,7 +377,7 @@ export default function Home() {
           <p>LET&apos;S WORK TOGETHER</p>
           <h2>HAVE A PROJECT<br /><span>IN MIND?</span></h2>
           <p className="contact-description">I&apos;m open to opportunities, collaborations, game projects, and creative web experiences.</p>
-          <a href="mailto:your@email.com" className="contact-button">GET IN TOUCH <span>→</span></a>
+          <a href="mailto:arjunaaryas23@email.com" className="contact-button">GET IN TOUCH <span>→</span></a>
         </div>
       </section>
 
